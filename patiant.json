@@ -1,0 +1,44 @@
+{
+  "patiant": [
+    {
+      "id": "8ef4",
+      "name": "nithin",
+      "age": "23",
+      "village": "thoguta",
+      "pincode": "502372",
+      "father": "bhaskar",
+      "phone": "9866171512",
+      "bednumber": "12a2"
+    },
+    {
+      "id": "132b",
+      "name": "malli",
+      "age": "25",
+      "village": "thoguta",
+      "pincode": "245656",
+      "father": "niugu",
+      "phone": "98765",
+      "bednumber": "9876"
+    },
+    {
+      "id": "0c93",
+      "name": "hello",
+      "age": "25",
+      "village": "rampur",
+      "pincode": "502315",
+      "father": "mallaiah",
+      "phone": "87436746837",
+      "bednumber": "54yg54"
+    },
+    {
+      "id": "6b21",
+      "name": "hello",
+      "age": "25",
+      "village": "rampur",
+      "pincode": "502315",
+      "father": "mallaiah",
+      "phone": "87436746837",
+      "bednumber": "54yg54"
+    }
+  ]
+}
